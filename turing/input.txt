@@ -1,9 +1,7 @@
-
 q0
 qAccept
 
 q0,0,qRight0,_,>
-
 qRight0,0,qRight0,0,>
 qRight0,1,qRight0,1,>
 q0,1,qRight1,_,>
