@@ -1,0 +1,17 @@
+#
+S
+A B B1 C
+C
+a
+AZ
+Z
+
+S A a Z/AZ
+
+A A a A/AA
+A B # A/A
+
+B B1 # A/
+B1 B # A/
+
+B C # Z/Z
